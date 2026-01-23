@@ -128,7 +128,7 @@ footer {
 /* Breakpoint 2: desktops */
 @media (min-width: 1024px) {
   .section {
-    max-width: 900px;
+    max-width: 1200px;
     margin: auto;
   }
 }
