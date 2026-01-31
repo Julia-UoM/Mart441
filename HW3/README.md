@@ -1,9 +1,9 @@
-Homework 3
+Homework 3 Reflection
 
-What I created:
-I created a simple web page that links an external JavaScript file. The page has a background color, visible text, and JavaScript that logs my favorite websites, games, and artists to the console. I also included a prompt that asks the user a question and prints their answer to the console. I customized the content so it reflects my own interests.
+<p>What I created:</p>
+I created a simple web page that links an external JavaScript file. The page has a background color, visible text, and JavaScript that logs my favorite websites, games, and artists to the console. I also included a prompt that asks the user a question and prints their answer to the console. I customized the content so it reflects my own interests. <p></p>
 
-What the generative AI/someone else created:
+<p>What the generative AI/someone else created:</p>
 The generative AI produced a basic version of the same assignment with example websites, games, and artists. It showed how to structure the HTML and JavaScript and how to use console.log() and prompt(), but the did not reflect personalized choices or style.
 
 How would you feel if you relied only on AI-generated output or someone else's work:
